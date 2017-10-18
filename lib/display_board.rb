@@ -2,5 +2,7 @@
 def display_board
   cell = "   |   |  "
   print cell
+  row = -----------
+  print cell + row
 
 end
